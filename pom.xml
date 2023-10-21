@@ -31,4 +31,26 @@
         </dependency>
     </dependencies>
 
+    <licenses>
+        <license>
+            <name>BSD 3-Clause</name>
+            <url>https://spdx.org/licenses/BSD-3-Clause.html</url>
+        </license>
+    </licenses>
+    <scm>
+        <connection>https://github.com/hjsjsu/field-value-check-spring-boot-autoconfigure.git</connection>
+        <url>https://github.com/hjsjsu/field-value-check-spring-boot-autoconfigure</url>
+    </scm>
+    <developers>
+        <developer>
+            <name>hjsjsu</name>
+            <email>1570457244@qq.com</email>
+            <roles>
+                <role>Developer</role>
+            </roles>
+            <timezone>+8</timezone>
+        </developer>
+    </developers>
+
+
 </project>
